@@ -225,4 +225,29 @@ nav{
     }
 }
 
+@media(max-width:760px) {
+    html{
+        font-size: 45%;
+    }
+}
+
+.page-wrapper{
+    header{
+        padding: 2rem;
+    }
+    
+    section.hero{
+        padding: 2rem;
+    
+    }
+ 
+@media(max-width:600px) {
+    html{
+        font-size: 45%;
+    }
+}    
+
+    
+    
+
 
