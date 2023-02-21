@@ -215,7 +215,7 @@ nav{
 }
 @media(max-width:998px) {
     html{
-        font-size: 100%;
+        font-size: 45%;
     }
 }
 
@@ -223,7 +223,7 @@ nav{
 
 @media(max-width:760px) {
     html{
-        font-size: 100%;
+        font-size: 45%;
     }
 }
 
@@ -239,13 +239,13 @@ nav{
  
 @media(max-width:600px) {
     html{
-        font-size: 100%;
+        font-size: 45%;
     }
 }
     
 @media(max-width:400px) {
     html{
-        font-size: 100%;
+        font-size: 45%;
     }
 }
 
