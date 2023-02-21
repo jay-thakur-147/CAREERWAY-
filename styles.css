@@ -245,7 +245,13 @@ nav{
     html{
         font-size: 45%;
     }
-}    
+}
+    
+@media(max-width:400px) {
+    html{
+        font-size: 45%;
+    }
+}
 
     
     
